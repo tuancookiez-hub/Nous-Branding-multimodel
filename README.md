@@ -9,7 +9,7 @@
 *Above: A 21:9 banner generated with this pipeline using the different paths.*
 
 **Nous Research visual identity, model-agnostic.**  
-Forked from [hermes-theia-codex-vision](https://github.com/plntrprotocol/hermes-theia-codex-vision) and [nous-branding](https://github.com/plntrprotocol/nous-branding). Works with any image generation backend.
+Forked from [hermes-theia-codex-vision](https://github.com/plntrprotocol/hermes-theia-codex-vision) and [nous-branding](https://github.com/plntrprotocol/nous-branding). Works with any image generation backend quality may defer.
 
 ---
 
